@@ -1,4 +1,18 @@
-### Hi there 👋
+<a align="center" href="https://github.com/eroist"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Blockchain%20Developer;6+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
+
+<p align="center">
+  <img align="center" src="https://www.blockchaindevelopmentagency.com/images/dapp-development.jpg" style = "width: -webkit-fill-available;"/>
+</p>
+<h1 align="center">
+  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
+  <a href="/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwork&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
+  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/></a>
+</h1>
+<p>
+Do you believe that blockchain is the future of the financial world?
+Are you ready to become a part of it?
+Great, I will help you implement your idea into a blockchain project and write it to a blockchain history forever.
+</p>
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
