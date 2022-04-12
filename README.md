@@ -52,9 +52,9 @@ Great, I will help you implement your idea into a blockchain project and write i
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="https://cdn.iconscout.com/icon/free/png-64/node-js-1174925.png" width="48" height="48" alt="NodeJs" />
       </a>
-      <br>Jsonnet
+      <br>NodeJs
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
@@ -64,7 +64,7 @@ Great, I will help you implement your idea into a blockchain project and write i
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="https://cdn.iconscout.com/icon/free/png-64/vue-282497.png" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Bootstrap
     </td>
