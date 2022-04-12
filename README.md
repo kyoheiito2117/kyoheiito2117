@@ -8,7 +8,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/rust.png" width="48" height="32" alt="rust" />
+        <img src="./img/rust.png" width="72" height="48" alt="rust" />
       </a>
       <br>rust
     </td>
