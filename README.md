@@ -1,5 +1,11 @@
-<a align="center" href="https://github.com/eroist"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Blockchain%20Developer;6+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
+<div align="center">
+<a align="center" href="https://github.com/eroist"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20My%20Github!;Full-Stack%20Blockchain%20Developer;6+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
 
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=eroist.eroist" />
+<img align="right" src="https://img.shields.io/github/followers/eroist?label=Follow&style=social" />
+
+<h6><img src="https://gdi-nyc.github.io/intro-to-git-and-github/images/git-daft-punk-1.gif" height="60" /> Welcome! <img src="https://gdi-nyc.github.io/intro-to-git-and-github/images/git-daft-punk-1.gif" height="60" /></h6>
+</div>
 <p align="center">
   <img align="center" src="https://www.blockchaindevelopmentagency.com/images/dapp-development.jpg" style = "width: -webkit-fill-available;"/>
 </p>
