@@ -56,7 +56,7 @@ Great, I will help you implement your idea into a blockchain project and write i
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://cryptologos.cc/logos/elrond-egld-egld-logo.png" width="48" height="48" alt="Elrond" />
+        <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/elrond-4441349-3679644.png" width="48" height="48" alt="Elrond" />
       </a>
       <br>Elrond
     </td>
