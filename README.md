@@ -134,9 +134,9 @@ I will help you implement your idea into a blockchain project and write it to a 
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://cdn.iconscout.com/icon/free/png-64/vue-282497.png" width="48" height="48" alt="Bootstrap" />
+        <img src="https://cdn.iconscout.com/icon/free/png-64/vue-282497.png" width="48" height="48" alt="Vue" />
       </a>
-      <br>Bootstrap
+      <br>Vue
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
