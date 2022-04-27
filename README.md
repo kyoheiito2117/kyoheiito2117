@@ -1,8 +1,8 @@
 <div align="center">
-<a align="center" href="https://github.com/eroist"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20My%20Github!;Full-Stack%20Blockchain%20Developer;6+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
+<a align="center" href="https://github.com/kyoheiito2117"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20My%20Github!;Full-Stack%20Blockchain%20Developer;6+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=eroist.eroist" />
-<img align="right" src="https://img.shields.io/github/followers/eroist?label=Follow&style=social" />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=kyoheiito2117.kyoheiito2117" />
+<img align="right" src="https://img.shields.io/github/followers/kyoheiito2117?label=Follow&style=social" />
 
 <h1><img src="https://gdi-nyc.github.io/intro-to-git-and-github/images/git-daft-punk-1.gif" height="60" /> Welcome! <img src="https://gdi-nyc.github.io/intro-to-git-and-github/images/git-daft-punk-1.gif" height="60" /></h1>
 </div>
